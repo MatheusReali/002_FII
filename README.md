@@ -129,7 +129,7 @@ Esses dados serão exportados para arquivos csv, importados para o tableau e os 
   - Análisar o número e a localização dos imóveis dos FIIs;
   - Criar filtros interativos para o usuário;
   - Criar visualizações comparativas entre os fundos;
-  - Buscar mais dados históricos, como preço da cota ao longo do tempo para efeitos comparativos.
+  - Buscar mais dados históricos, como preço da cota ao longo do tempo, taxa de juros e IPCA para efeitos comparativos.
 
 ## CONCLUSÃO
 
