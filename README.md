@@ -4,6 +4,8 @@ Este projeto tem por objetivo criar uma ferramenta para analisar os diversos fun
 
 OBSERVAÇÃO IMPORTANTE: esta ferramenta *NÃO É UMA RECOMENDAÇÃO DE INVESTIMENTO*. O usuário deve realizar sua própria análise e tirar suas próprias conclusões. A ferramenta foi criada para uso exclusivo do autor e o mesmo não se responsabiliza por qualquer ação tomada pelo usuário.
 
+Link para a apresentação no Tableau Public: https://public.tableau.com/app/profile/matheus3596/viz/001_FII_1/Apresentao?publish=yes
+
 ## MOTIVAÇÕES
 
 Fundos imobiliários são uma forma simples de se investir no mercado imobiliário sem a necessidade de comprar imóveis físicos. Com a compra de uma cota de um fundo imobiliário, o investidor se torna dono de uma parcela dos imóveis do fundo e, com isso, passa a receber rendimentos desses imóveis proporcionalmente à sua cota.
@@ -39,6 +41,8 @@ Entre tantos fundos, fica difícil encontrar os que são seguros e rentáveis ol
   - Beautiful Soup.
 
 ## COMO USAR
+
+Para acessar a apresentação atualizada periodicamente, acesse o link do Tableau Public https://public.tableau.com/app/profile/matheus3596/viz/001_FII_1/Apresentao?publish=yes
 
 ### 1. Instalando extensões e importando bibliotecas
 
@@ -141,12 +145,13 @@ Por fim, deve-se salientar novamente que, apesar de estar em um repositório pú
 
 ## LINKS E REFERÊNCIAS
 
+ - Tableau Public: https://public.tableau.com/app/profile/matheus3596/viz/001_FII_1/Apresentao?publish=yes
  - Fundamentus: https://www.fundamentus.com.br/fii_resultado.php
  - EXAME "Fundos imobiliários: o que são e como funcionam?": https://exame.com/invest/guia/fundos-imobiliarios-o-que-sao-e-como-funcionam/
  - FundsExplorer: https://www.fundsexplorer.com.br/artigos/principais-indicadores-na-hora-de-escolher-um-fii-o-que-considerar/
  - O Primo Rico: https://www.youtube.com/watch?v=IazEN13o304&list=LL&index=1&t=820s
 
-## VERIONAMENTO
+## VERISONAMENTO
 
 Versão 1.0
 
